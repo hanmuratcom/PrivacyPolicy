@@ -1,0 +1,43 @@
+Gizlilik Politikası (Privacy Policy)
+Son Güncelleme: 15 Eylül 2026
+Uygulama Adı: MyTone Music
+Paket Adı: com.murathan.muzikpro
+Geliştirici: Murat HAN (mrthan0227@gmail.com)
+
+MyTone Music ("Uygulama"), kullanıcılarının gizliliğine ve kişisel verilerinin korunmasına büyük önem vermektedir. Bu Gizlilik Politikası, Uygulamayı kullandığınızda hangi bilgilerin işlendiğini, nasıl kullanıldığını ve nasıl korunduğunu açıklamaktadır.
+
+1. Toplanan Bilgiler ve İzinler
+Uygulamamız; müzik çalma, karaoke yapma ve şarkı sözü senkronizasyonu gibi temel özellikleri sunabilmek için aşağıdaki izinleri kullanır:
+
+Mikrofon İzni (Microphone / Audio Recording):
+Kullanım Amacı: Karaoke özelliği esnasında sesinizi enstrümantal müzik altyapısıyla birleştirmek ve sesli arama yapmak.
+Veri Güvenliği: Mikrofon üzerinden alınan ses verileri yalnızca sizin açık talebiniz doğrultusunda cihazınızda yerel olarak saklanır veya seçtiğiniz karaoke işleme servisine geçici olarak iletilir. Ses kayıtlarınız hiçbir üçüncü taraf reklam veya pazarlama şirketine satılmaz, aktarılmaz veya ticari amaçla kullanılmaz.
+Ses Tanıma İzni (Speech Recognition):
+Kullanım Amacı: Uygulama içinde sesinizle şarkı veya sanatçı araması yapabilmeniz için Google Konuşma Tanıma servisini kullanır.
+Depolama ve Medya Erişimi:
+Kullanım Amacı: Kaydettiğiniz karaoke performanslarını cihazınızda saklamak ve çevrimdışı önbelleğe alınan müzik verilerini okumak için kullanılır.
+İnternet ve Ağ Erişimi:
+Kullanım Amacı: Çevrimiçi müzik akışlarını yürütmek, şarkı sözlerini (LRCLIB vb.) senkronize şekilde çekmek ve karaoke altyapı işleme servisine bağlanabilmek için internet bağlantısı kullanılır.
+Google Cast / Yerel Ağ:
+Kullanım Amacı: Müziği Chromecast veya desteklenen harici akıllı hoparlör/ekran cihazlarına aktarabilmeniz amacıyla yerel ağ cihaz taraması yapılabilir.
+2. Kişisel Verilerin Kullanımı ve Paylaşımı
+Uygulama, kullanıcılardan zorunlu bir kayıt işlemi talep etmediği sürece ad, soyad, T.C. kimlik no, telefon gibi hassas kişisel verileri toplamaz.
+Cihazınızda oluşturduğunuz ses kayıtları ve tercihleriniz üçüncü taraflarla paylaşılmaz.
+3. Üçüncü Taraf Hizmetler ve Kütüphaneler
+Uygulamamız temel işlevlerini sağlamak için aşağıdaki güvenilir servislerden yararlanabilir:
+
+Google Play Hizmetleri: Uygulama dağıtımı, lisanslama ve temel altyapı.
+Google Speech Recognition: Sesli komutları metne dönüştürme.
+LRCLIB API: Şarkı sözü (lirik) sağlama.
+4. Çocukların Gizliliği (COPPA / GDPR)
+Uygulamamız 13 yaşın (veya geçerli yerel mevzuattaki sınırın) altındaki çocuklardan bilerek kişisel veri toplamaz. Ebeveynlerin çocuklarının internet ve uygulama kullanımını denetlemelerini teşvik ederiz.
+
+5. Veri Güvenliği
+Tüm sunucu iletişimleri endüstri standardı HTTPS / SSL şifreleme protokolleri ile güvenli bir şekilde gerçekleştirilmektedir.
+
+6. İletişim
+Gizlilik politikamız ile ilgili herhangi bir soru veya talebiniz için bizimle iletişime geçebilirsiniz:
+
+Geliştirici: Murat HAN
+E-posta: 
+mrthan0227@gmail.com
